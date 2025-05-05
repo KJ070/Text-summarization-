@@ -1,0 +1,17 @@
+streamlit
+transformers
+torch
+tensorflow
+tf-keras
+numpy
+scipy
+protobuf
+PyPDF2
+textract
+pydantic
+langchain
+huggingface_hub
+langchain-community
+python-dotenv
+scikit-learn
+textblob
